@@ -79,6 +79,7 @@ Trusted Zone
 The customer_trusted table was queried in Athena to show that it only contains customer records from people who agreed to share their data.
 
 ![customer_trusted](assets/screenshots/customer_trusted.png)
+![customer_trust_with_filter](assets/screenshots/customer_trusted_with_filter.png)
 </details>
 
 <details>
